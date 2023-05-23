@@ -102,7 +102,7 @@ class SuperJob(Engine):
         """Запрос вакансий API HeadHunter"""
         self.HEADERS = {
             'Host': 'api.superjob.ru',
-            'X-Api-App-Id': os.getenv('SJ_API_KEY'),
+            'X-Api-App-Id': 'v3.r.137463232.a085bb1aaa3c51a9b7b88481b7075aa785b24619.5bc49efdee8512297bdf804e2d7b7cc7f3736ec3',
             'Authorization': 'Bearer r.000000010000001.example.access_token',
             'Content-Type': 'application/x-www-form-urlencoded'
         }
