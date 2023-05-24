@@ -12,18 +12,6 @@
         "url": "https://hh.ru/vacancy/79947934"
     },
     {
-        "date_puplished": "2023-05-02T14:01:35+0300",
-        "description": "Администрирование проекта вместе с Project Manager: Организация внутреннего и внешнего документооборота. Ведение отчетности в CRM. Участие во встречах с командами...",
-        "name": "Администратор проектов IT Junior (удаленно)",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/79992869"
-    },
-    {
         "date_puplished": "2023-05-17T07:28:17+0300",
         "description": "Проектирование и UX/UI дизайн, сайтов/лендингов. Отрисовка мобильной версии сайта. Редизайн сайтов, логотипов, баннеров. Дизайн сложных внутренних корпоративных сервисов. ",
         "name": "Web-дизайнер (junior/стажер)",
@@ -34,126 +22,6 @@
             "to": 25000
         },
         "url": "https://hh.ru/vacancy/80550796"
-    },
-    {
-        "date_puplished": "2023-05-23T09:52:20+0300",
-        "description": "Взаимодействие с дизайнером / backend-разработчиками.",
-        "name": "Верстальщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 70000,
-            "gross": false,
-            "to": 90000
-        },
-        "url": "https://hh.ru/vacancy/80867515"
-    },
-    {
-        "date_puplished": "2023-05-20T16:57:19+0300",
-        "description": "Разработка настольных и <highlighttext>веб</highlighttext>-приложений. Разработка баз данных. Настройка системы. Тестирование результатов и устранение замечаний. Введение в проектную деятельность: Современные...",
-        "name": "Стажер-разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80611072"
-    },
-    {
-        "date_puplished": "2023-05-23T10:16:10+0300",
-        "description": "Разработка, поддержка и исполнение тестовых сценариев для различных внутренних <highlighttext>веб</highlighttext>-сервисов компании. Тестирование Rest API. Тестирование CI/CD. ",
-        "name": "Junior web-тестировщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/80869892"
-    },
-    {
-        "date_puplished": "2023-05-22T11:06:07+0300",
-        "description": "Поддержка сайтов наших клиентов: мелкие задачи по верстке, программированию и конфигурированию. Публикация материалов на сайты наших клиентов. Исполнение учебного плана.",
-        "name": "Программист-стажёр (удалённо)",
-        "salary": {
-            "currency": "RUR",
-            "from": 17000,
-            "gross": false,
-            "to": 17000
-        },
-        "url": "https://hh.ru/vacancy/80806543"
-    },
-    {
-        "date_puplished": "2023-05-22T14:16:44+0300",
-        "description": "Тестирование внутренних разработок компании. Работа в системе Jira/конфлюенс (создание задач и баг-репортов). Тестирование выполненных задач и закрытых багов. ",
-        "name": "Тестировщик ПО/Junior",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": false,
-            "to": 70000
-        },
-        "url": "https://hh.ru/vacancy/80827075"
-    },
-    {
-        "date_puplished": "2023-05-22T12:00:22+0300",
-        "description": "Технические конференции.",
-        "name": "Junior Web-developer",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/80813237"
-    },
-    {
-        "date_puplished": "2023-05-17T16:42:03+0300",
-        "description": "Анализ требований и проектирование тестов в системе управления тестами (Squash TM). Функциональное тестирование проектов и заведение инцидентов в баг трекере...",
-        "name": "Стажер в команду тестирования",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": true,
-            "to": 40000
-        },
-        "url": "https://hh.ru/vacancy/80610019"
-    },
-    {
-        "date_puplished": "2023-05-22T19:04:10+0300",
-        "description": "Разрабатывать <highlighttext>веб</highlighttext>-приложения с использованием React. Тестирование программного обеспечения. Документирование кода. Создание технической документации. Участие в испытаниях программного обеспечения. ",
-        "name": "Frontend-разработчик (React)",
-        "salary": {
-            "currency": "RUR",
-            "from": 100000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80849976"
-    },
-    {
-        "date_puplished": "2023-05-17T16:08:37+0300",
-        "description": "Участие в разработке мобильных приложений от планирования до запуска и поддержки.",
-        "name": "Junior Android разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80607446"
-    },
-    {
-        "date_puplished": "2023-05-22T12:42:29+0300",
-        "description": "Проводить тестирование на различных платформах и устройствах. Описывать обнаруженные дефекты по принятым стандартам. Проводить функциональное и регрессионное тестирование. ",
-        "name": "Тестировщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": false,
-            "to": 90000
-        },
-        "url": "https://hh.ru/vacancy/80817487"
     },
     {
         "date_puplished": "2023-05-22T18:03:58+0300",
@@ -168,6 +36,126 @@
         "url": "https://hh.ru/vacancy/80848026"
     },
     {
+        "date_puplished": "2023-05-02T14:01:35+0300",
+        "description": "Администрирование проекта вместе с Project Manager: Организация внутреннего и внешнего документооборота. Ведение отчетности в CRM. Участие во встречах с командами...",
+        "name": "Администратор проектов IT Junior (удаленно)",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/79992869"
+    },
+    {
+        "date_puplished": "2023-05-22T11:06:07+0300",
+        "description": "Поддержка сайтов наших клиентов: мелкие задачи по верстке, программированию и конфигурированию. Публикация материалов на сайты наших клиентов. Исполнение учебного плана.",
+        "name": "Программист-стажёр (удалённо)",
+        "salary": {
+            "currency": "RUR",
+            "from": 17000,
+            "gross": false,
+            "to": 17000
+        },
+        "url": "https://hh.ru/vacancy/80806543"
+    },
+    {
+        "date_puplished": "2023-05-17T16:42:03+0300",
+        "description": "Анализ требований и проектирование тестов в системе управления тестами (Squash TM). Функциональное тестирование проектов и заведение инцидентов в баг трекере...",
+        "name": "Стажер в команду тестирования",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": true,
+            "to": 40000
+        },
+        "url": "https://hh.ru/vacancy/80610019"
+    },
+    {
+        "date_puplished": "2023-05-23T16:57:19+0300",
+        "description": "Разработка настольных и <highlighttext>веб</highlighttext>-приложений. Разработка баз данных. Настройка системы. Тестирование результатов и устранение замечаний. Введение в проектную деятельность: Современные...",
+        "name": "Стажер-разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80611072"
+    },
+    {
+        "date_puplished": "2023-05-22T14:16:44+0300",
+        "description": "Тестирование внутренних разработок компании. Работа в системе Jira/конфлюенс (создание задач и баг-репортов). Тестирование выполненных задач и закрытых багов. ",
+        "name": "Тестировщик ПО/Junior",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": false,
+            "to": 70000
+        },
+        "url": "https://hh.ru/vacancy/80827075"
+    },
+    {
+        "date_puplished": "2023-05-23T10:16:10+0300",
+        "description": "Разработка, поддержка и исполнение тестовых сценариев для различных внутренних <highlighttext>веб</highlighttext>-сервисов компании. Тестирование Rest API. Тестирование CI/CD. ",
+        "name": "Junior web-тестировщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/80869892"
+    },
+    {
+        "date_puplished": "2023-05-17T16:08:37+0300",
+        "description": "Участие в разработке мобильных приложений от планирования до запуска и поддержки.",
+        "name": "Junior Android разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80607446"
+    },
+    {
+        "date_puplished": "2023-05-24T09:29:17+0300",
+        "description": "Создание на Битрикс интернет-магазинов, корпоративных сайтов и др.. Поддержка и доработка сайтов на Битрикс. Интеграции с внешними системами: 1...",
+        "name": "HTML-верстальщик \\ Программист ( Начинающий)",
+        "salary": {
+            "currency": "RUR",
+            "from": 30000,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/80929056"
+    },
+    {
+        "date_puplished": "2023-05-23T16:44:49+0300",
+        "description": "Тестирование ПО в соответствии с методикой тестирования. Анализ результатов. Ведение тестовой документации (написание сценариев, планов тестирования, отчетность). Подготовка тестовых данных. ",
+        "name": "QA engineer/ Тестировщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 70000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80906635"
+    },
+    {
+        "date_puplished": "2023-05-22T12:00:22+0300",
+        "description": "Технические конференции.",
+        "name": "Junior Web-developer",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/80813237"
+    },
+    {
         "date_puplished": "2023-05-17T16:04:51+0300",
         "description": "Участие в разработке мобильных приложений от планирования до запуска и поддержки.",
         "name": "Junior iOS разработчик",
@@ -178,6 +166,234 @@
             "to": null
         },
         "url": "https://hh.ru/vacancy/80607186"
+    },
+    {
+        "date_puplished": "2023-05-23T09:52:20+0300",
+        "description": "Взаимодействие с дизайнером / backend-разработчиками.",
+        "name": "Верстальщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 70000,
+            "gross": false,
+            "to": 90000
+        },
+        "url": "https://hh.ru/vacancy/80867515"
+    },
+    {
+        "date_puplished": "2023-05-21T17:59:07+0300",
+        "description": "Умение создавать адаптивный дизайн и оптимизировать контент под различные устройства и разрешения экранов, с учетом лучших практик <highlighttext>веб</highlighttext>-разработки и...",
+        "name": "HTML-верстальщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 35000,
+            "gross": false,
+            "to": 50000
+        },
+        "url": "https://hh.ru/vacancy/80779224"
+    },
+    {
+        "date_puplished": "2023-05-12T15:29:10+0300",
+        "description": "Тестировать разрабатываемый функционал. Фиксировать баги. Предоставлять обратную связь разработчикам. Контролировать исправления.",
+        "name": "Тестировщик",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 200000
+        },
+        "url": "https://hh.ru/vacancy/80365911"
+    },
+    {
+        "date_puplished": "2023-05-22T12:42:29+0300",
+        "description": "Проводить тестирование на различных платформах и устройствах. Описывать обнаруженные дефекты по принятым стандартам. Проводить функциональное и регрессионное тестирование. ",
+        "name": "Тестировщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 90000
+        },
+        "url": "https://hh.ru/vacancy/80817487"
+    },
+    {
+        "date_puplished": "2023-05-22T19:04:10+0300",
+        "description": "Разрабатывать <highlighttext>веб</highlighttext>-приложения с использованием React. Тестирование программного обеспечения. Документирование кода. Создание технической документации. Участие в испытаниях программного обеспечения. ",
+        "name": "Frontend-разработчик (React)",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80849976"
+    },
+    {
+        "date_puplished": "2023-05-18T17:06:44+0300",
+        "description": "Ручное функциональное тестирование ПО. Регрессионное тестирование по чеклистам и без них. Ведение тестовой документации. Поддержка пользовательской документации. Работа с системами...",
+        "name": "Тестировщик ПО (Junior)",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": true,
+            "to": 100000
+        },
+        "url": "https://hh.ru/vacancy/80674934"
+    },
+    {
+        "date_puplished": "2023-05-22T11:20:31+0300",
+        "description": "Выполнять ручное тестирование <highlighttext>web</highlighttext>-приложения, API, десктопных и мобильных приложений. Расстановка приоритетов задач, планирование работы с задачами тестирования. ",
+        "name": "Младший тестировщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80444469"
+    },
+    {
+        "date_puplished": "2023-05-18T16:36:14+0300",
+        "description": "Тестирование программного обеспечения (140 ч). Технологии Интернет и <highlighttext>WEB</highlighttext> – программирования (50 ч). * Личный кабинет пациента. * Мобильные приложения врача приёмного отделения...",
+        "name": "Junior Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80672968"
+    },
+    {
+        "date_puplished": "2023-05-23T15:27:35+0300",
+        "description": "Учет задач ведём в YouTrack. Размещаемся в собственном облаке. Проектирование и разработка <highlighttext>веб</highlighttext>-приложений. Анализ и оценка требований и технических...",
+        "name": "Фронтенд-разработчик (React)",
+        "salary": {
+            "currency": "RUR",
+            "from": 120000,
+            "gross": false,
+            "to": 200000
+        },
+        "url": "https://hh.ru/vacancy/80899584"
+    },
+    {
+        "date_puplished": "2023-05-19T14:04:17+0300",
+        "description": null,
+        "name": "Junior frontend-разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80723106"
+    },
+    {
+        "date_puplished": "2023-05-22T14:57:41+0300",
+        "description": "Проводить ручное тестирование нового функционала внутренней системы, выполнять регрессионное тестирование, usability. Активное участие в проработке требований как для уже существующих...",
+        "name": "Тестировщик/Manual QA инженер",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/80831581"
+    },
+    {
+        "date_puplished": "2023-05-15T07:51:16+0300",
+        "description": "Истории в Тренде: Работа с топовыми застройщиками. Консультация по современным ЖК. Никакой холодной базы, приём только входящих звонков. ",
+        "name": "Агент по продажам первичной недвижимости",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": 500000
+        },
+        "url": "https://hh.ru/vacancy/80401636"
+    },
+    {
+        "date_puplished": "2023-05-17T23:13:58+0300",
+        "description": "Проектировать решения с учетом данных метрики и аналитики, анализировать конкурентов, исследовать. Проводить UX-исследования. Участвовать в составе команды разработки всего...",
+        "name": "Дизайнер UX UI (Стажер / Junior)",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 40000
+        },
+        "url": "https://hh.ru/vacancy/80620615"
+    },
+    {
+        "date_puplished": "2023-05-23T11:06:43+0300",
+        "description": "Корпоративные тусовки, выезды и прочее)).",
+        "name": "Аккаунт менеджер IT (Стажер)",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80875467"
+    },
+    {
+        "date_puplished": "2023-05-22T12:00:29+0300",
+        "description": "SpectrumData - аккредитованная ИТ-компания, которая создала группу федеральных сервисов по проверке: автомобилей, физических лиц , контрагентов, объектов недвижимости и кредитных историй.",
+        "name": "Junior Java Developer (офис)",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80813253"
+    },
+    {
+        "date_puplished": "2023-05-22T17:35:43+0300",
+        "description": "Создавать верстку по макету: лендинги, многостраничники, личные кабинеты на основе CMS Getcourse. Помогать технической поддержке в консультировании клиентов по вопросам...",
+        "name": "Верстальщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 57500,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80743122"
+    },
+    {
+        "date_puplished": "2023-05-23T15:57:45+0300",
+        "description": "Разработка и доработка api для сайтов и <highlighttext>веб</highlighttext>-приложений. Поддержка работоспособности серверной части наших проектов. Взаимодействие с пользователями для выявления...",
+        "name": "Программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80902738"
+    },
+    {
+        "date_puplished": "2023-05-22T12:50:52+0300",
+        "description": "Разработка, внедрение и сопровождение новых сервисов. Поддержка, доработка и сопровождение существующих <highlighttext>Web</highlighttext>/SPA-проектов. Участие в качестве технического специалиста в...",
+        "name": "Frontend-разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": 140000
+        },
+        "url": "https://hh.ru/vacancy/80818242"
+    },
+    {
+        "date_puplished": "2023-05-17T16:16:49+0300",
+        "description": "Ищем практикующих тарологов для проведения консультаций по видеосвязи. На сайте нашего проекта ежедневно регистрируются заинтересованные клиенты с абсолютно разными задачами...",
+        "name": "Таролог",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80608063"
     },
     {
         "date_puplished": "2023-05-22T11:57:02+0300",
@@ -192,16 +408,112 @@
         "url": "https://hh.ru/vacancy/80812977"
     },
     {
-        "date_puplished": "2023-05-21T17:59:07+0300",
-        "description": "Умение создавать адаптивный дизайн и оптимизировать контент под различные устройства и разрешения экранов, с учетом лучших практик <highlighttext>веб</highlighttext>-разработки и...",
-        "name": "HTML-верстальщик",
+        "date_puplished": "2023-05-18T16:44:41+0300",
+        "description": "Анализ маркетинговых кампаний, анализ продаж, еженедельная/ежемесячная отчетность об эффективности каналов продвижения. Использование сервисов <highlighttext>веб</highlighttext>-аналитики Google Analytics и Яндекс...",
+        "name": "Менеджер по интернет-маркетингу (E-commerce)",
+        "salary": {
+            "currency": "RUR",
+            "from": 191000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80673456"
+    },
+    {
+        "date_puplished": "2023-05-17T16:18:07+0300",
+        "description": "Модными фичами вроде Face Recognition и Augmented Reality на фронте. 3D <highlighttext>Web</highlighttext> GL размещение трехмерных объектов в вебе. ",
+        "name": "Frontend Разработчик / Верстальщик",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 80000
+        },
+        "url": "https://hh.ru/vacancy/80608169"
+    },
+    {
+        "date_puplished": "2023-05-21T12:40:04+0300",
+        "description": "Ручное тестирование <highlighttext>веб</highlighttext>-сайтов. Разработка и поддержка тест-кейсов. Взаимодействие с командой разработчиков. Bug reporting.",
+        "name": "Тестировщик / Junior Manual QA Engineer",
         "salary": {
             "currency": "RUR",
             "from": 35000,
             "gross": false,
-            "to": 50000
+            "to": 46500
         },
-        "url": "https://hh.ru/vacancy/80779224"
+        "url": "https://hh.ru/vacancy/80352628"
+    },
+    {
+        "date_puplished": "2023-05-15T17:20:57+0300",
+        "description": "Выполнение тестового задания (время выполнения задания оценивается в 8-12 человекочасов для специалиста уровня Junior). Собеседование с CTO и PO.",
+        "name": "Python разработчик (Junior)",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 80000
+        },
+        "url": "https://hh.ru/vacancy/80456354"
+    },
+    {
+        "date_puplished": "2023-05-23T11:44:28+0300",
+        "description": "обеспечения работы серверной, сетевой и телекоммуникационной и IT инфраструктуры. - ведение <highlighttext>веб</highlighttext>-портала и корп. Почты. - обеспечение информационной безопасности. - ",
+        "name": "Специалист по IT",
+        "salary": {
+            "currency": "RUR",
+            "from": 140000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80879473"
+    },
+    {
+        "date_puplished": "2023-05-19T17:58:26+0300",
+        "description": "Личный кабинет пациента iOS vistamed. Мессенджер ТАДАМ iOS/Android/<highlighttext>Web</highlighttext>.",
+        "name": "Javascript разработчик / Frontend developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80744307"
+    },
+    {
+        "date_puplished": "2023-05-23T15:40:05+0300",
+        "description": "Составление тестовой документации. — Проведение smoke и regress. — Проверка работы продуктовых метрик (работа с БД), аналитика проблем. — Локализация багов. — ",
+        "name": "Junior+ QA Engineer в IT-компании",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80161757"
+    },
+    {
+        "date_puplished": "2023-05-22T09:39:32+0300",
+        "description": "Определение и согласование kpi. Формирование годового бюджета на <highlighttext>веб</highlighttext>-разработку и проектные задачи. Текущее управление бюджетом. Управление приоритизацией и беклогом...",
+        "name": "Директор по продукту",
+        "salary": {
+            "currency": "RUR",
+            "from": 500000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80650927"
+    },
+    {
+        "date_puplished": "2023-05-22T16:30:34+0300",
+        "description": "Кроссбраузерная адаптивная верстка макетов из Figma. Разработка клиентской части проектов на React и Vue (преимущественно на Vue). Настройка взаимодействия с...",
+        "name": "Frontend-разработчик (Vue.JS/React)",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 90000
+        },
+        "url": "https://hh.ru/vacancy/80840974"
     },
     {
         "date_puplished": "2023-05-22T11:08:44+0300",
@@ -228,102 +540,6 @@
         "url": "https://hh.ru/vacancy/80492790"
     },
     {
-        "date_puplished": "2023-05-19T14:04:17+0300",
-        "description": null,
-        "name": "Junior frontend-разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80723106"
-    },
-    {
-        "date_puplished": "2023-05-22T16:30:34+0300",
-        "description": "Кроссбраузерная адаптивная верстка макетов из Figma. Разработка клиентской части проектов на React и Vue. Настройка взаимодействия с сервером через REST...",
-        "name": "Frontend-разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": false,
-            "to": 90000
-        },
-        "url": "https://hh.ru/vacancy/80840974"
-    },
-    {
-        "date_puplished": "2023-05-22T11:20:31+0300",
-        "description": "Выполнять ручное тестирование <highlighttext>web</highlighttext>-приложения, API, десктопных и мобильных приложений. Расстановка приоритетов задач, планирование работы с задачами тестирования. ",
-        "name": "Младший тестировщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80444469"
-    },
-    {
-        "date_puplished": "2023-05-23T15:40:05+0300",
-        "description": "Составление тестовой документации. — Проведение smoke и regress. — Проверка работы продуктовых метрик (работа с БД), аналитика проблем. — Локализация багов. — ",
-        "name": "Junior+ QA Engineer в IT-компании",
-        "salary": {
-            "currency": "RUR",
-            "from": 100000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80161757"
-    },
-    {
-        "date_puplished": "2023-05-18T16:36:14+0300",
-        "description": "Тестирование программного обеспечения (140 ч). Технологии Интернет и <highlighttext>WEB</highlighttext> – программирования (50 ч). * Личный кабинет пациента. * Мобильные приложения врача приёмного отделения...",
-        "name": "Junior Python разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80672968"
-    },
-    {
-        "date_puplished": "2023-05-18T17:06:44+0300",
-        "description": "Ручное функциональное тестирование ПО. Регрессионное тестирование по чеклистам и без них. Ведение тестовой документации. Поддержка пользовательской документации. Работа с системами...",
-        "name": "Тестировщик ПО (Junior)",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": true,
-            "to": 100000
-        },
-        "url": "https://hh.ru/vacancy/80674934"
-    },
-    {
-        "date_puplished": "2023-05-22T12:00:29+0300",
-        "description": "SpectrumData - аккредитованная ИТ-компания, которая создала группу федеральных сервисов по проверке: автомобилей, физических лиц , контрагентов, объектов недвижимости и кредитных историй.",
-        "name": "Junior Java Developer (офис)",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80813253"
-    },
-    {
-        "date_puplished": "2023-05-21T11:42:57+0300",
-        "description": "Проведение функционального тестирования. Тестирование документации. Участие в регрессионном тестировании релизов. Ведение тестовой документации проекта. Составление тест-планов. Контроль стабильности выпускаемых...",
-        "name": "Junior QA Engineer",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/80425431"
-    },
-    {
         "date_puplished": "2023-05-16T18:00:18+0300",
         "description": "Ручное (80%) и автоматизированное (20%) тестирование <highlighttext>web</highlighttext>-сайтов и мобильных приложений. Грамотно и понятно описывать найденные ошибки в трекер-системе. ",
         "name": "Тестировщик (удаленно)",
@@ -334,210 +550,6 @@
             "to": 30000
         },
         "url": "https://hh.ru/vacancy/80527916"
-    },
-    {
-        "date_puplished": "2023-05-22T11:51:05+0300",
-        "description": "Разработка нового функционала существующего мобильного приложения (интеграция со сторонним сервисом по API). Взаимодействие с командой разработки и бизнес аналитиками. ",
-        "name": "Программист Backend junior+, middle",
-        "salary": {
-            "currency": "RUR",
-            "from": 80000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80812261"
-    },
-    {
-        "date_puplished": "2023-05-22T17:35:43+0300",
-        "description": "Создавать верстку по макету: лендинги, многостраничники, личные кабинеты на основе CMS Getcourse. Помогать технической поддержке в консультировании клиентов по вопросам...",
-        "name": "Верстальщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 57500,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80743122"
-    },
-    {
-        "date_puplished": "2023-05-22T12:50:52+0300",
-        "description": "Разработка, внедрение и сопровождение новых сервисов. Поддержка, доработка и сопровождение существующих <highlighttext>Web</highlighttext>/SPA-проектов. Участие в качестве технического специалиста в...",
-        "name": "Frontend-разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": 100000,
-            "gross": false,
-            "to": 140000
-        },
-        "url": "https://hh.ru/vacancy/80818242"
-    },
-    {
-        "date_puplished": "2023-05-22T10:24:34+0300",
-        "description": "Выполнение функционального, регрессионного, интеграционного тестирования ПО крупнейших инвестиционных компаний России и СНГ (Desktop + <highlighttext>Web</highlighttext> + Mobile). Обнаружение, отслеживание, документирование...",
-        "name": "Тестировщик ПО / QA Engineer",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": false,
-            "to": 130000
-        },
-        "url": "https://hh.ru/vacancy/80801651"
-    },
-    {
-        "date_puplished": "2023-05-12T15:29:10+0300",
-        "description": "Тестировать разрабатываемый функционал. Фиксировать баги. Предоставлять обратную связь разработчикам. Контролировать исправления.",
-        "name": "Тестировщик",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": true,
-            "to": 200000
-        },
-        "url": "https://hh.ru/vacancy/80365911"
-    },
-    {
-        "date_puplished": "2023-05-17T23:13:58+0300",
-        "description": "Проектировать решения с учетом данных метрики и аналитики, анализировать конкурентов, исследовать. Проводить UX-исследования. Участвовать в составе команды разработки всего...",
-        "name": "Дизайнер UX UI (Стажер / Junior)",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": false,
-            "to": 40000
-        },
-        "url": "https://hh.ru/vacancy/80620615"
-    },
-    {
-        "date_puplished": "2023-05-23T02:45:15+0300",
-        "description": "Работа с макетами в Figma, Photoshop, AI. Вёрстка по макетам. Реализация адаптивности и кросс-браузерности верстки. Код ревью. ",
-        "name": "HTML-верстальщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 70000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80854320"
-    },
-    {
-        "date_puplished": "2023-05-17T16:18:07+0300",
-        "description": "Модными фичами вроде Face Recognition и Augmented Reality на фронте. 3D <highlighttext>Web</highlighttext> GL размещение трехмерных объектов в вебе. ",
-        "name": "Frontend Разработчик / Верстальщик",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": false,
-            "to": 80000
-        },
-        "url": "https://hh.ru/vacancy/80608169"
-    },
-    {
-        "date_puplished": "2023-05-22T14:57:41+0300",
-        "description": "Проводить ручное тестирование нового функционала внутренней системы, выполнять регрессионное тестирование, usability. Активное участие в проработке требований как для уже существующих...",
-        "name": "Тестировщик/Manual QA инженер",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/80831581"
-    },
-    {
-        "date_puplished": "2023-05-18T16:44:41+0300",
-        "description": "Анализ маркетинговых кампаний, анализ продаж, еженедельная/ежемесячная отчетность об эффективности каналов продвижения. Использование сервисов <highlighttext>веб</highlighttext>-аналитики Google Analytics и Яндекс...",
-        "name": "Менеджер по интернет-маркетингу (E-commerce)",
-        "salary": {
-            "currency": "RUR",
-            "from": 191000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80673456"
-    },
-    {
-        "date_puplished": "2023-05-19T17:58:26+0300",
-        "description": "Личный кабинет пациента iOS vistamed. Мессенджер ТАДАМ iOS/Android/<highlighttext>Web</highlighttext>.",
-        "name": "Javascript разработчик / Frontend developer",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80744307"
-    },
-    {
-        "date_puplished": "2023-05-17T16:16:49+0300",
-        "description": "Ищем практикующих тарологов для проведения консультаций по видеосвязи. На сайте нашего проекта ежедневно регистрируются заинтересованные клиенты с абсолютно разными задачами...",
-        "name": "Таролог",
-        "salary": {
-            "currency": "RUR",
-            "from": 50000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80608063"
-    },
-    {
-        "date_puplished": "2023-05-15T17:20:57+0300",
-        "description": "Выполнение тестового задания (время выполнения задания оценивается в 8-12 человекочасов для специалиста уровня Junior). Собеседование с CTO и PO.",
-        "name": "Python разработчик (Junior)",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": true,
-            "to": 80000
-        },
-        "url": "https://hh.ru/vacancy/80456354"
-    },
-    {
-        "date_puplished": "2023-05-17T09:32:59+0300",
-        "description": "Polyphone представляет собой мессенджер, интегрированный с инфраструктурой оператора связи или корпоративного клиента. Имеет в своем составе дополнительные модули: Личный кабинет...",
-        "name": "C# (junior+)",
-        "salary": {
-            "currency": "RUR",
-            "from": 120000,
-            "gross": false,
-            "to": 150000
-        },
-        "url": "https://hh.ru/vacancy/80038430"
-    },
-    {
-        "date_puplished": "2023-05-21T13:37:05+0300",
-        "description": "Разработка новых <highlighttext>web</highlighttext> приложений. Принимать активное участие в обсуждении архитектурных решений. Проводить Code Review коллег. Автоматизация бизнес-процессов. ",
-        "name": "Программист Python",
-        "salary": {
-            "currency": "RUR",
-            "from": 45000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80049283"
-    },
-    {
-        "date_puplished": "2023-05-23T15:03:29+0300",
-        "description": "Html-верстка макетов из Figma. Интеграция в CMS (Wordpress, Bitrix). Настройка отправки конверсий по ТЗ маркетолога. Внесение правок на готовые...",
-        "name": "Junior Web-разработчик",
-        "salary": {
-            "currency": "RUR",
-            "from": null,
-            "gross": false,
-            "to": 40000
-        },
-        "url": "https://hh.ru/vacancy/80601433"
-    },
-    {
-        "date_puplished": "2023-05-19T14:08:14+0300",
-        "description": "Тестирования приложений для видеоконференцсвязи на различных платформах (Windows, Linux, MacOS, iOS, Android). Тестирование <highlighttext>web</highlighttext>-приложений. Кроссплатформенное и кроссбраузерное тестирование. ",
-        "name": "Тестировщик ПО / QA Engineer",
-        "salary": {
-            "currency": "RUR",
-            "from": 30000,
-            "gross": true,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80723699"
     },
     {
         "date_puplished": "2023-05-18T11:16:49+0300",
@@ -552,28 +564,52 @@
         "url": "https://hh.ru/vacancy/80644816"
     },
     {
-        "date_puplished": "2023-05-22T10:51:43+0300",
-        "description": "Разработка и оптимизация пользовательского интерфейса сайтов и <highlighttext>веб</highlighttext>-приложений. Оптимизация производительности и обеспечение отзывчивости <highlighttext>веб</highlighttext>-приложений. Взаимодействие с командой дизайнеров...",
-        "name": "Web-разработчик",
+        "date_puplished": "2023-05-23T15:00:05+0300",
+        "description": "Выполнение ручного функционального тестирования <highlighttext>веб</highlighttext>-сайтов, <highlighttext>веб</highlighttext>-сервисов и мобильных приложений. Разработка новых и актуализация старых тест-кейсов. ",
+        "name": "Тестировщик / QA Engineer",
         "salary": {
             "currency": "RUR",
-            "from": 30000,
+            "from": 35000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80896901"
+    },
+    {
+        "date_puplished": "2023-05-22T09:15:23+0300",
+        "description": "Участие в проектах, связанных с разработкой программного обеспечения. Это могут быть проекты <highlighttext>веб</highlighttext>-разработки, автоматизации задач, анализа данных и т...",
+        "name": "Python разработчик (Junior)",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 70000
+        },
+        "url": "https://hh.ru/vacancy/80793878"
+    },
+    {
+        "date_puplished": "2023-05-21T13:37:05+0300",
+        "description": "Разработка новых <highlighttext>web</highlighttext> приложений. Принимать активное участие в обсуждении архитектурных решений. Проводить Code Review коллег. Автоматизация бизнес-процессов. ",
+        "name": "Программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 45000,
             "gross": false,
             "to": null
         },
-        "url": "https://hh.ru/vacancy/80804863"
+        "url": "https://hh.ru/vacancy/80049283"
     },
     {
-        "date_puplished": "2023-05-02T14:40:45+0300",
-        "description": "Взаимодействие с дизайнерами, другими разработчиками и сотрудниками технической поддержки по разрабатываемым <highlighttext>веб</highlighttext>-проектам. Доработка и улучшение существующих <highlighttext>веб</highlighttext>-проектов. ",
-        "name": "Frontend-разработчик (junior+/middle)",
+        "date_puplished": "2023-05-24T09:34:11+0300",
+        "description": "Polyphone представляет собой мессенджер, интегрированный с инфраструктурой оператора связи или корпоративного клиента. Имеет в своем составе дополнительные модули: Личный кабинет...",
+        "name": "C# (junior+)",
         "salary": {
             "currency": "RUR",
-            "from": 80000,
+            "from": 120000,
             "gross": false,
             "to": 150000
         },
-        "url": "https://hh.ru/vacancy/79996176"
+        "url": "https://hh.ru/vacancy/80038430"
     },
     {
         "date_puplished": "2023-05-19T15:45:59+0300",
@@ -588,66 +624,6 @@
         "url": "https://hh.ru/vacancy/80734293"
     },
     {
-        "date_puplished": "2023-05-16T17:00:27+0300",
-        "description": "Разработка адаптивного интерфейса для <highlighttext>веб</highlighttext>‑приложения, а также клиентов для мобильных и настольных систем. Создавать и поддерживать существующих библиотек в...",
-        "name": "Младший UX/UI designer",
-        "salary": {
-            "currency": "RUR",
-            "from": 100000,
-            "gross": false,
-            "to": null
-        },
-        "url": "https://hh.ru/vacancy/80524215"
-    },
-    {
-        "date_puplished": "2023-05-15T18:18:27+0300",
-        "description": "Создание адаптивного дизайна для сайтов: лендингов, интернет-магазинов, корпоративных сайтов. Доработка существующих проектов.",
-        "name": "Веб-дизайнер (удаленно)",
-        "salary": {
-            "currency": "RUR",
-            "from": 30000,
-            "gross": false,
-            "to": 40000
-        },
-        "url": "https://hh.ru/vacancy/80460124"
-    },
-    {
-        "date_puplished": "2023-05-16T10:48:05+0300",
-        "description": "Разработка системы графического управления распределенной системой виртуализации.",
-        "name": "Junior Golang Developer",
-        "salary": {
-            "currency": "RUR",
-            "from": 150000,
-            "gross": true,
-            "to": 200000
-        },
-        "url": "https://hh.ru/vacancy/80486642"
-    },
-    {
-        "date_puplished": "2023-05-21T10:46:49+0300",
-        "description": "доработка модулей информационной системы с <highlighttext>веб</highlighttext>-интерфейсом. - интеграция с внешними системами. - переработка существующего кода с учетом парадигмы ООП. - ",
-        "name": "Помощник веб-программиста",
-        "salary": {
-            "currency": "RUR",
-            "from": 40000,
-            "gross": false,
-            "to": 60000
-        },
-        "url": "https://hh.ru/vacancy/80641324"
-    },
-    {
-        "date_puplished": "2023-05-22T13:10:18+0300",
-        "description": "Мы - агентство <highlighttext>веб</highlighttext>-разработки и тестирования. В рейтинге Рунета 2023 года - 1 место (разработка сайтов рекламной тематики), 7 место (рейтинг...",
-        "name": "HTML-верстальщик (middle)",
-        "salary": {
-            "currency": "RUR",
-            "from": 70000,
-            "gross": false,
-            "to": 90000
-        },
-        "url": "https://hh.ru/vacancy/80820081"
-    },
-    {
         "date_puplished": "2023-05-12T10:21:40+0300",
         "description": "Верстка <highlighttext>веб</highlighttext>-интерфейсов и сайтов. Кроссбраузерно, адаптивно, под Retina с использованием JS-плагинов.",
         "name": "HTML-верстальщик (стажер)",
@@ -658,6 +634,18 @@
             "to": null
         },
         "url": "https://hh.ru/vacancy/80341588"
+    },
+    {
+        "date_puplished": "2023-05-24T10:46:49+0300",
+        "description": "доработка модулей информационной системы с <highlighttext>веб</highlighttext>-интерфейсом. - интеграция с внешними системами. - переработка существующего кода с учетом парадигмы ООП. - ",
+        "name": "Помощник веб-программиста",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/80641324"
     },
     {
         "date_puplished": "2023-05-19T11:42:55+0300",
@@ -672,52 +660,88 @@
         "url": "https://hh.ru/vacancy/80707454"
     },
     {
-        "date_puplished": "2023-05-10T10:49:05+0300",
-        "description": "Рефакторинг и оптимизация кода, Code review. Участие в проектировании <highlighttext>Web</highlighttext>-интерфейсов. Взаимодействие с бэкенд разработчиками, дизайнерами. Разработка нового функционала в...",
-        "name": "Front–end разработчик",
+        "date_puplished": "2023-05-22T10:24:34+0300",
+        "description": "Выполнение функционального, регрессионного, интеграционного тестирования ПО крупнейших инвестиционных компаний России и СНГ (Desktop + <highlighttext>Web</highlighttext> + Mobile). Обнаружение, отслеживание, документирование...",
+        "name": "Тестировщик ПО / QA Engineer",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": 130000
+        },
+        "url": "https://hh.ru/vacancy/80801651"
+    },
+    {
+        "date_puplished": "2023-05-19T14:08:14+0300",
+        "description": "Тестирования приложений для видеоконференцсвязи на различных платформах (Windows, Linux, MacOS, iOS, Android). Тестирование <highlighttext>web</highlighttext>-приложений. Кроссплатформенное и кроссбраузерное тестирование. ",
+        "name": "Тестировщик ПО / QA Engineer",
+        "salary": {
+            "currency": "RUR",
+            "from": 30000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/80723699"
+    },
+    {
+        "date_puplished": "2023-05-15T09:51:31+0300",
+        "description": "Дорабатывать текущий и разрабатывать новый функционал для сайтов. Разбираться с незнакомыми движками, вникать в чужой код. Написание своего грамотного кода...",
+        "name": "Junior Web-разработчик (в офис)",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/79295936"
+    },
+    {
+        "date_puplished": "2023-05-23T15:03:29+0300",
+        "description": "Html-верстка макетов из Figma. Интеграция в CMS (Wordpress, Bitrix). Настройка отправки конверсий по ТЗ маркетолога. Внесение правок на готовые...",
+        "name": "Junior Web-разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 40000
+        },
+        "url": "https://hh.ru/vacancy/80601433"
+    },
+    {
+        "date_puplished": "2023-05-22T11:51:05+0300",
+        "description": "Разработка нового функционала существующего мобильного приложения (интеграция со сторонним сервисом по API). Взаимодействие с командой разработки и бизнес аналитиками. ",
+        "name": "Программист Backend junior+, middle",
         "salary": {
             "currency": "RUR",
             "from": 80000,
             "gross": false,
             "to": null
         },
-        "url": "https://hh.ru/vacancy/80222593"
+        "url": "https://hh.ru/vacancy/80812261"
     },
     {
-        "date_puplished": "2023-05-22T18:32:55+0300",
-        "description": "Сделать парсер историй в инстаграм.",
-        "name": "Backend разработчик на Python",
+        "date_puplished": "2023-05-23T02:45:15+0300",
+        "description": "Работа с макетами в Figma, Photoshop, AI. Вёрстка по макетам. Реализация адаптивности и кросс-браузерности верстки. Код ревью. ",
+        "name": "HTML-верстальщик",
         "salary": {
             "currency": "RUR",
-            "from": 50000,
+            "from": 70000,
             "gross": false,
-            "to": 150000
+            "to": null
         },
-        "url": "https://hh.ru/vacancy/80849057"
+        "url": "https://hh.ru/vacancy/80854320"
     },
     {
-        "date_puplished": "2023-04-25T15:25:32+0300",
-        "description": "Выполнение задач по проектам, которые поручает наставник. Изучать материалы, которые рекомендует специалист-наставник и задавать вопросы по изученному, чтобы хорошо...",
-        "name": "Стажер в отдел управления проектами",
+        "date_puplished": "2023-05-05T07:25:25+0300",
+        "description": "Компания Сканпорт - ИТ-компания, входит в Реестр аккредитованных организаций, осуществляющих деятельность в области информационных технологий. - Ручное тестирование мобильных Android-приложений...",
+        "name": "Тестировщик ПО / QA Engineer",
         "salary": {
             "currency": "RUR",
-            "from": 35000,
+            "from": 65000,
             "gross": true,
-            "to": 50000
+            "to": null
         },
-        "url": "https://hh.ru/vacancy/79787001"
-    },
-    {
-        "date_puplished": "2023-05-21T15:50:01+0300",
-        "description": null,
-        "name": "Junior+ web developer",
-        "salary": {
-            "currency": "RUR",
-            "from": 60000,
-            "gross": true,
-            "to": 80000
-        },
-        "url": "https://hh.ru/vacancy/80669755"
+        "url": "https://hh.ru/vacancy/80130722"
     },
     {
         "date_puplished": null,
